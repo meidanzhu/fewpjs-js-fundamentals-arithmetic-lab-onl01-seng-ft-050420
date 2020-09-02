@@ -6,4 +6,4 @@ let rando = Math.random()
 
 let mod = 24%5
 
-let max = ath.max(3,8,20)
+let max = Math.max(3,8,20)
